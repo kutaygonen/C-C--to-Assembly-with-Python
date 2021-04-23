@@ -5,9 +5,6 @@ Created on Tue May  5 15:00:26 2020
 @author: KutayGONEN
 """
 """
-STUDENT NAME: KUTAY GÖNEN
-STUDENT ID : 2016502047
-
 ----------- C++ TO ASSEMBLY CODE --------------
 Please Read The Supporting .pdf File Before Start
 Your Assembly File Will be Named As c2assembly_kutay_gonen in both .txt and .asm format
