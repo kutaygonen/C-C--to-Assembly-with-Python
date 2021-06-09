@@ -214,7 +214,7 @@ while 1: # in an infinity loop
                             forsm(intnumber,int(lol[a][b+14]), lol[a][b+19])                                              
     break
 
-#Here it is tried to convert if-else and else if statements but its not succesfull
+
 # #CONVERT IF STATEMENTS
 #     for a in range(len(lol)-1):
 #         for b in range(len(lol[a])):
