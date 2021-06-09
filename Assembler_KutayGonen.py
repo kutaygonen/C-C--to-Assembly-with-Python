@@ -105,7 +105,7 @@ stringfile=str(lol) #convert list to a string
 rfile.seek(0) #return the begining
 # print(rfile.tell()) #for debugger
 
-while 1: # in a infinity loop
+while 1: # in an infinity loop
     
     #CONVERT ADD
     for a in range(len(lol)-1):
